@@ -123,3 +123,6 @@ const element = <div style={divStyle}>Styled Text</div>;
 <h3>Summary</h3>
 
 JSX is a powerful syntax extension for JavaScript that makes writing React components more intuitive and readable. By allowing HTML-like syntax within JavaScript, JSX simplifies the creation of complex UI structures. Embedding expressions in JSX further enhances its flexibility, enabling dynamic content and interactivity within your components.
+
+<h2><a href="https://github.com/sanjay9616/React/blob/main/README.md"> 🔙 Back</a></h2>
+

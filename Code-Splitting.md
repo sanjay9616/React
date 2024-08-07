@@ -95,3 +95,5 @@ export default LazyComponentB;
 - **React Suspense:** Manages the loading state of lazy-loaded components with a fallback UI.
 
 These techniques help improve the performance of your React application by reducing the initial load time and loading resources as needed.
+
+<h2><a href="https://github.com/sanjay9616/React/blob/main/README.md"> 🔙 Back</a></h2>

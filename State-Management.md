@@ -194,3 +194,5 @@ export default App;
 - **Redux:** A predictable state container for JavaScript apps, often used with React.
 - **MobX:** A state management library that uses observables to make state management simple and scalable.
 - **Recoil:** A state management library for React that provides flexible state sharing and management.
+
+<h2><a href="https://github.com/sanjay9616/React/blob/main/README.md"> 🔙 Back</a></h2>

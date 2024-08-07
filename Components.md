@@ -84,3 +84,5 @@ class Clock extends React.Component {
 - **Functional components** are simple functions that return UI elements.
 - **Class components** are more complex and can hold state and lifecycle methods.
 - **Component lifecycle** describes the phases a component goes through from creation to removal, with specific methods that run at each phase to handle setup, updates, and cleanup.
+
+<h2><a href="https://github.com/sanjay9616/React/blob/main/README.md"> 🔙 Back</a></h2>

@@ -108,3 +108,6 @@ In this example, the `handleClick` function is memoized using `useCallback`, pre
 - **useMemo:** Memoizes the result of an expensive calculation, recomputing it only when dependencies change.
 - **useCallback:** Memoizes a callback function to prevent its recreation on every render, useful for passing stable callbacks to child components.
 
+<h2><a href="https://github.com/sanjay9616/React/blob/main/README.md"> 🔙 Back</a></h2>
+
+

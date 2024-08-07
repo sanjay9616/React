@@ -125,3 +125,5 @@ Manage error state using the `useState` hook.
 
 - **Error Boundaries:** Use class components to catch and handle errors in the component tree, providing a fallback UI.
 - **Handling Errors in Functional Components:** Use hooks like `useEffect` and `useState` along with `try-catch blocks` to manage errors in functional components.
+
+<h2><a href="https://github.com/sanjay9616/React/blob/main/README.md"> 🔙 Back</a></h2>

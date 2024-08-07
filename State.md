@@ -115,3 +115,5 @@ export default Counter;
 <h3>Conclusion</h3>
 
 Both class and functional components can manage state in React. Class components use `this.state` and `this.setState`, while functional components use the `useState` hook. With the advent of Hooks, functional components have become more powerful and are generally preferred for new React projects due to their simplicity and flexibility.
+
+<h2><a href="https://github.com/sanjay9616/React/blob/main/README.md"> 🔙 Back</a></h2>
